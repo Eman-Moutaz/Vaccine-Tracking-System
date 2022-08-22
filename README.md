@@ -1,1 +1,1 @@
-# Vaccine-Tracking-System
+# Vaccine Tracking System
